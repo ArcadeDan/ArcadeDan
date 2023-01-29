@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcadeDan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcadeDan&theme=gruvbox&show_icons=true&exclude_repo=JoJo-s-Bizarre-Rimworld)](https://github.com/anuraghazra/github-readme-stats)
